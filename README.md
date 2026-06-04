@@ -1,4 +1,9 @@
-# Hi, I'm loveslaw 👋
+<table>
+  <tr>
+    <!-- Left Column: Bio & Details -->
+    <td width="60%" valign="top">
+      
+## Hi, I'm loveslaw 👋
 
 i'm a full stack and blockchain dev from india. i love building cool stuff like web apps, games, smart contracts and bots. been in the dev space for 5+ years working on everything from defi and nfts to ai tools and automation.
 
@@ -9,6 +14,15 @@ hackathons are a big part of my story. won ethindia twice and unfold once. i enj
 some of my open source projects are down below if you wanna check them out. always open to collab or jam on something fun.
 
 thanks for dropping by 🏗️
+
+    </td>
+    
+    <!-- Right Column: Profile Image -->
+    <td width="40%" valign="top" align="center">
+      <img src="https://imgur.com/placeholder.png" width="280" alt="loveslaw Profile" style="border-radius: 12px; box-shadow: 0 0 20px rgba(0, 255, 200, 0.3);" />
+    </td>
+  </tr>
+</table>
 
 ---
 
