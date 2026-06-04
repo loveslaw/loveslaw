@@ -33,7 +33,7 @@ thanks for dropping by 🏗️
 📍 Metaverse  
 🕐 06:33 · same time  
 💼 [ir/loveslaw](https://github.com/loveslaw)  
-𝕏 [@loveslaw](https://twitter.com/loveslaw)  
+𝕏 [@loveslaw](https://twitter.com/durrehkuttiya)  
 🌐 [https://loveslaw.com](https://loveslaw.com)
 
 ---
