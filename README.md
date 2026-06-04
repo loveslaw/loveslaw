@@ -1,16 +1,24 @@
-## Hi there 👋
+<table>
+  <tr>
+    <!-- Left Column: Bio & Details -->
+    <td width="65%" valign="top">
+      
+      ## Hi, I’m CHERRY 🍒
 
-<!--
-**loveslaw/loveslaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      i’m a developer and designer who loves building cool, custom digital spaces. from tweaking custom desktop clients and setting up dedicated gaming networks to crafting clean frontend code, i enjoy bringing unique ideas to life.
 
-Here are some ideas to get you started:
+      i spend a lot of my time working with configurations, custom styling, and automation tools to make applications look and run exactly how i want them to.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      open source, gaming architecture, and aesthetic interfaces are a big part of my vibe. always looking to build fast, experiment with new tools, and ship weird stuff that actually works.
+
+      thanks for dropping by ⚡
+
+    </td>
+    
+    <!-- Right Column: Glowing Cyan Graphic -->
+    <td width="35%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/loveslaw/loveslaw<img width="1024" height="1024" alt="Gemini_Generated_Image_mn61m9mn61m9mn61(1)" src="https://github.com/user-attachments/assets/f13cab5c-a01d-4671-ac29-f71c40087bcb" />
+/main/pfp.png" width="100%" alt="CHERRY Profile Graphic" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
