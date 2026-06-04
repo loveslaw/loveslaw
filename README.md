@@ -17,8 +17,7 @@
     
     <!-- Right Column: Glowing Cyan Graphic -->
     <td width="35%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/loveslaw/loveslaw<img width="1024" height="1024" alt="Gemini_Generated_Image_mn61m9mn61m9mn61(1)" src="https://github.com/user-attachments/assets/f13cab5c-a01d-4671-ac29-f71c40087bcb" />
-/main/pfp.png" width="100%" alt="CHERRY Profile Graphic" style="border-radius: 8px;" />
+      <img src="https://raw.githubusercontent.com/loveslaw/loveslaw/main/pfp.png" width="100%" alt="CHERRY Profile Graphic" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
