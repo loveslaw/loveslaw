@@ -1,4 +1,4 @@
-![CHERRY Banner](https://imgur.com/PZJhXzK.jpg)
+![CHERRY Banner](https://ibb.co/Kp7yjjKN)
 
 <div align="center">
 
