@@ -1,249 +1,134 @@
-![CHERRY Banner](https://imgur.com/a/CHERRY-profile-banner)
+![CHERRY Banner](https://imgur.com/PZJhXzK.jpg)
 
-```
-    ██╗      ██████╗ ██╗   ██╗███████╗███████╗██╗     ███████╗██╗    ██╗
-    ██║     ██╔═══██╗██║   ██║██╔════╝██╔════╝██║     ██╔════╝██║    ██║
-    ██║     ██║   ██║██║   ██║█████╗  ███████╗██║     █████╗  ██║ █╗ ██║
-    ██║     ██║   ██║╚██╗ ██╔╝██╔══╝  ╚════██║██║     ██╔══╝  ██║███╗██║
-    ███████╗╚██████╔╝ ╚████╔╝ ███████╗███████║███████╗███████╗╚███╔███╔╝
-    ╚══════╝ ╚═════╝   ╚═══╝  ╚══════╝╚══════╝╚══════╝╚══════╝ ╚══╝╚══╝
-```
+<div align="center">
 
-# 👋 Hi there, I'm loveslaw
+# 👋 Hi there, I'm **Cherry**
 
-> Full Stack Developer | Blockchain Enthusiast | Open Source Builder
+## Frontend & Automation Developer | Bot Engineer
+
+### **Just Code Nig**
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-I'm a passionate full-stack and blockchain developer from **India** with **5+ years** of experience building innovative digital solutions. I love crafting everything from web applications and games to smart contracts and automation bots.
+Independent developer with a focus on **interactive web experiences**, **custom automation scripts**, and **full-featured community bots**. Driven by clean design, efficient architecture, and turning experimental ideas into live, responsive apps.
 
-**What I Do:**
-- 🌐 Build full-stack web applications with modern technologies
-- ⛓️ Develop blockchain solutions and smart contracts
-- 🤖 Create Discord bots and Telegram applications
-- 📚 Share knowledge through open-source projects
-- 🏆 Participate in hackathons (Won **ETHIndia 2x** & **Unfold 1x**)
+**Currently mastering:**
+- Advanced asynchronous Python architectures
+- Deep-dive React state management  
+- Modern cloud deployment pipelines
 
-**My Philosophy:** *Build fast, test ideas, ship weird stuff that actually works.*
+**My Goal:** Build scalable, high-impact web products and automation ecosystems with polished, distinctive user interfaces.
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages & Frameworks
+### **Languages**
 ```
-TypeScript • JavaScript • Python • Solidity • Rust
-```
-
-### Frontend
-```
-React • Next.js • Svelte • HTML5 • CSS3 • Tailwind CSS
+Python  •  JavaScript  •  HTML5  •  CSS3
 ```
 
-### Backend
+### **Frontend & Styling**
 ```
-Node.js • Express.js • Prisma • PostgreSQL • MongoDB
-```
-
-### Web3 & Blockchain
-```
-Solidity • Solana • Anchor • Ethers.js • Web3.js
+React  •  Tailwind CSS  •  CustomTkinter
 ```
 
-### Tools & Platforms
+### **Backend & Automation**
 ```
-Git • Docker • Discord.js • Telegram API • AWS • Vercel
+Node.js  •  REST APIs  •  Termux Workflows  •  Discord.py  •  Discord API
+```
+
+### **Tools & Platforms**
+```
+Git  •  GitHub  •  VS Code  •  UptimeRobot
 ```
 
 ---
 
-## 🎯 Featured Projects
+## 🍒 Featured Projects
 
-### 🍒 **CHERRY-bot** — Discord Bot Platform
-**JavaScript** | 200+ Commands | Open Source
+### **Cherry** — Custom Desktop Audio Equalizer
+**Python** | **CustomTkinter** | Interactive Audio Control
 
-A comprehensive Discord bot with 200+ commands including fun interactions, moderation tools, info commands, utilities, and chatbot capabilities. Fully extensible and beginner-friendly.
+A sophisticated desktop audio equalizer built with Python and CustomTkinter featuring real-time frequency manipulation, visual waveform analysis, and sleek UI/UX.
 
-[🔗 Repository](https://github.com/loveslaw/CHERRY-bot) · [⭐ Star](https://github.com/loveslaw/CHERRY-bot/stargazers)
-
----
-
-### 📚 **JEE-Plans** — Study Planner Web App
-**JavaScript/React** | Privacy-First | Local Storage
-
-A lightweight, privacy-focused web application for JEE exam preparation. Track chapter progress, set routine alarms with anti-snooze challenges, log mock tests, and manage study hours—all stored locally in your browser.
-
-[🔗 Repository](https://github.com/loveslaw/JEE-plans)
+[🔗 Repository](https://github.com/loveslaw/cherry) · [📂 View](https://github.com/loveslaw)
 
 ---
 
-### 🎓 **Built-Study-Hall** — Virtual Study Group
-**JavaScript** | Browser-Based | Library-Themed
+### **Lunexa** — Dynamic Discord Audio Streaming Bot
+**Discord.py** | **Multi-Instance Support** | Real-Time Audio
 
-A browser-based virtual study group application with a "library reading room" theme. Features call-number room codes and a due-date-stamp focus timer for productive study sessions.
+High-performance Discord audio streaming bot with multi-instance deployment capabilities, advanced queue management, and seamless audio handling for large communities.
 
-[🔗 Repository](https://github.com/loveslaw/Built-Study-Hall)
-
----
-
-### 🗣️ **TTS-Bot** — Hinglish Text-to-Speech Discord Bot
-**Python** | Discord Bot | Audio Synthesis
-
-A Discord bot that joins voice channels and reads out text messages in **Hinglish** (mixed Hindi/English), making communication more accessible.
-
-[🔗 Repository](https://github.com/loveslaw/tts-bot)
+[🔗 Repository](https://github.com/loveslaw/lunexa) · [📂 View](https://github.com/loveslaw)
 
 ---
 
-### 😤 **Galli-Counter-Bot** — Cuss Word Detector
-**JavaScript** | Discord Bot | Fun Moderation
+### **Nuke-Guard** — Server Protection & Moderation Utility
+**Discord.py** | **High-Availability** | Security First
 
-A fun Discord bot that detects Hinglish abuse/cuss words, keeps per-user tally per server, and roasts people with humorous messages when detected.
+Enterprise-grade server protection and moderation utility with automated threat detection, role management, and comprehensive logging for Discord servers.
 
-[🔗 Repository](https://github.com/loveslaw/Galli-counter-bot)
-
----
-
-### 🎮 **Chess-Bot** — Automated Chess Player
-**Python** | AI | Game Bot
-
-An intelligent chess bot capable of playing automated games with strategy and decision-making algorithms.
-
-[🔗 Repository](https://github.com/loveslaw/-Chess-bot)
+[🔗 Repository](https://github.com/loveslaw/nuke-guard) · [📂 View](https://github.com/loveslaw)
 
 ---
 
-### 🛠️ **Make-Your-Compiler** — Educational Compiler Project
-**Python** | Teaching Guide | From Scratch
+## 📊 GitHub Stats
 
-A complete, working compiler for MiniLang built from scratch in Python. Includes dual guides: manual compiler building (understanding every line) and AI-assisted compiler building (effective prompting).
+<div align="center">
 
-[🔗 Repository](https://github.com/loveslaw/make-your-compiler)
+![Cherry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loveslaw&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loveslaw&layout=compact&theme=radical&bg_color=0d1117&title_color=ff0000&text_color=ffffff&border_color=ff0000)
 
-### 🔧 **Cherry-Tool** — Utility Suite
-**Python** | Tools & Utilities
-
-A collection of helpful tools and utilities for various development tasks.
-
-[🔗 Repository](https://github.com/loveslaw/Cherry-Tool)
+</div>
 
 ---
 
-### 💬 **Discord-Premium-Bot** — Premium Features Bot
-**JavaScript** | Discord Bot | Subscription Model
+## 🔥 Contribution & Activity
 
-A Discord bot showcasing premium subscription features and advanced bot capabilities.
+<div align="center">
 
-[🔗 Repository](https://github.com/loveslaw/discord-premium-bot)
+![GitHub Streak](https://streak-stats.demolab.com?user=loveslaw&theme=radical&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000)
 
----
-
-### 🎵 **Music-Bot** — Discord Music Player
-**JavaScript** | Discord Bot | Multi-Source
-
-An advanced Discord music bot supporting multiple streaming platforms.
-
-[🔗 Repository](https://github.com/loveslaw/MUSIC-BOT)
-
----
-
-### 🎨 **Cherry-Client** — Discord Client
-A custom Discord client implementation exploring client-side development.
-
-[🔗 Repository](https://github.com/loveslaw/Cherry-client)
-
----
-
-### 🌍 **Custom-RPC** — Rich Presence Tool
-Customize your Discord Rich Presence status with ease.
-
-[🔗 Repository](https://github.com/loveslaw/custom-rpc)
-
----
-
-### 📖 **Python-Guide** — Learning Resource
-A comprehensive guide for learning Python programming.
-
-[🔗 Repository](https://github.com/loveslaw/python-guide)
-
----
-
-## 🌟 Skills Highlight
-
-| Skill | Proficiency |
-|-------|-------------|
-| Full-Stack Development | ⭐⭐⭐⭐⭐ |
-| Discord Bot Development | ⭐⭐⭐⭐⭐ |
-| Blockchain/Web3 | ⭐⭐⭐⭐ |
-| Python Scripting | ⭐⭐⭐⭐ |
-| Database Design | ⭐⭐⭐⭐ |
-| API Development | ⭐⭐⭐⭐⭐ |
-| UI/UX Implementation | ⭐⭐⭐⭐ |
-
----
-
-## 🏆 Achievements
-
-- 🥇 **ETHIndia 2x** — Hackathon Winner
-- 🥇 **Unfold** — Hackathon Winner
-- 📦 **Active Open Source Contributor**
-- 💼 **5+ Years** Development Experience
-- 🌐 **600+** GitHub Followers
-
----
-
-## 📊 GitHub Statistics
-
-```
-📈 Repository Count: 15+ Active Projects
-🔧 Primary Languages: JavaScript, Python, Solidity
-⭐ Focus: Full-Stack • Blockchain • Discord Bots • Automation
-```
+</div>
 
 ---
 
 ## 🔗 Connect With Me
 
-- **GitHub:** [@loveslaw](https://github.com/loveslaw)
-- **Website:** [loveslaw.com](https://loveslaw.com)
-- **Twitter/X:** [@loveslaw](https://twitter.com/durrehkuttiya)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loveslaw)
+[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:louiss010101@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=white)](https://cherrygfx.netlify.app)
+[![Live Site](https://img.shields.io/badge/ForecY-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://forcecy.netlify.app)
+
+</div>
 
 ---
 
-## 💡 What I'm Looking For
+## 💡 What I'm Building
 
-- 🤝 **Collaborations** on innovative projects
-- 🧠 **Knowledge sharing** through open source
-- 🚀 **Hackathon participation** and competitions
-- 💬 **Mentorship opportunities** in blockchain and full-stack dev
-
----
-
-## 📝 Open to
-
-- Contract Work
-- Freelance Projects
-- Open Source Contributions
-- Collaboration & Pair Programming
-- Tech Discussions & Knowledge Exchange
-
----
-
-> *"Code is poetry written for machines and read by humans."*
-
-**Last Updated:** 2026  
-**Status:** Always Learning & Building 🚀
+- 🎨 Interactive web experiences with React
+- 🤖 Advanced Discord bots with automation
+- ⚡ Custom automation scripts & tools
+- 🎵 Audio processing & streaming solutions
+- 🛡️ Community protection & moderation systems
 
 ---
 
 <div align="center">
 
-### Show some ❤️ by starring some repositories!
+### Show some ❤️ by starring repositories!
 
-Made with 💻 by [loveslaw](https://github.com/loveslaw)
+Made with 🖤 by [Cherry](https://github.com/loveslaw)
+
+**Always learning. Always building. Always pushing limits.**
 
 </div>
