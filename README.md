@@ -4,9 +4,9 @@
 
 # 👋 Hi there, I'm **Cherry**
 
-## Frontend & Automation Developer | Bot Engineer
+## Systems, Security & Automation Engineer | Bot Architect
 
-### **Just Code Nig**
+### **Always Building. Always Pushing Limits.**
 
 </div>
 
@@ -14,14 +14,14 @@
 
 ## 🎯 About Me
 
-Independent developer with a focus on **interactive web experiences**, **custom automation scripts**, and **full-featured community bots**. Driven by clean design, efficient architecture, and turning experimental ideas into live, responsive apps.
+Independent developer with a focus on **high-performance systems**, **asynchronous Python automation**, **network security tools**, and **production-grade community bots**. Driven by clean architecture, zero-dependency engineering, and robust CLI/TUI experiences.
 
 **Currently mastering:**
-- Advanced asynchronous Python architectures
-- Deep-dive React state management  
-- Modern cloud deployment pipelines
+- Advanced asynchronous Python architectures & low-level socket programming
+- Applied cryptography (AES-256-GCM, PBKDF2/Argon2, Zero-Knowledge Vaults)
+- Real-time IPC protocols and media streaming pipelines
 
-**My Goal:** Build scalable, high-impact web products and automation ecosystems with polished, distinctive user interfaces.
+**My Goal:** Build scalable, forensic-resistant tools and automated developer utilities that solve real-world problems.
 
 ---
 
@@ -29,52 +29,70 @@ Independent developer with a focus on **interactive web experiences**, **custom 
 
 ### **Languages**
 ```
-Python  •  JavaScript  •  HTML5  •  CSS3
+Python  •  JavaScript  •  Node.js  •  Shell
 ```
 
-### **Frontend & Styling**
+### **Systems & Networking**
 ```
-React  •  Tailwind CSS  •  CustomTkinter
-```
-
-### **Backend & Automation**
-```
-Node.js  •  REST APIs  •  Termux Workflows  •  Discord.py  •  Discord API
+Raw Sockets  •  Asyncio  •  ARP/ICMP Sniffing  •  HLS/MPEG-TS Protocols  •  Discord IPC
 ```
 
-### **Tools & Platforms**
+### **Security & Cryptography**
 ```
-Git  •  GitHub  •  VS Code  •  UptimeRobot
+AES-256-GCM  •  DoD 5220.22-M Shredding  •  PBKDF2-HMAC  •  Zero-Knowledge Architecture
+```
+
+### **Tools & Frameworks**
+```
+Git  •  GitHub  •  Linux / Windows IPC  •  Rich TUI  •  Pytest  •  Discord.py
 ```
 
 ---
 
 ## 🍒 Featured Projects
 
-### **Cherry** — Custom Desktop Audio Equalizer
-**Python** | **CustomTkinter** | Interactive Audio Control
+### **🛡️ GhostVault-CLI** — Military-Grade File Locker & DoD 5220.22-M Shredder
+**Python** | **AES-256-GCM** | **Plausible Deniability**
 
-A sophisticated desktop audio equalizer built with Python and CustomTkinter featuring real-time frequency manipulation, visual waveform analysis, and sleek UI/UX.
+Zero-knowledge file and directory encryption vault with dual-slot plausible deniability (decoy vaults) and military DoD 5220.22-M 3-pass cryptographic shredder.
 
-[🔗 Repository](https://github.com/loveslaw/cherry) · [📂 View](https://github.com/loveslaw)
-
----
-
-### **Lunexa** — Dynamic Discord Audio Streaming Bot
-**Discord.py** | **Multi-Instance Support** | Real-Time Audio
-
-High-performance Discord audio streaming bot with multi-instance deployment capabilities, advanced queue management, and seamless audio handling for large communities.
-
-[🔗 Repository](https://github.com/loveslaw/lunexa) · [📂 View](https://github.com/loveslaw)
+[🔗 Repository](https://github.com/loveslaw/GhostVault-CLI) · [⭐ View Project](https://github.com/loveslaw/GhostVault-CLI)
 
 ---
 
-### **Nuke-Guard** — Server Protection & Moderation Utility
-**Discord.py** | **High-Availability** | Security First
+### **🔄 Discord-Server-Cloner** — Asynchronous Server Backup & 1-Click Cloner
+**Python** | **discord.py** | **Rate-Limit Throttled**
 
-Enterprise-grade server protection and moderation utility with automated threat detection, role management, and comprehensive logging for Discord servers.
+Full lossless Discord server backup engine snapshotting roles, hierarchy, category structures, channel permissions, and emojis with 1-click template restoration.
 
-[🔗 Repository](https://github.com/loveslaw/nuke-guard) · [📂 View](https://github.com/loveslaw)
+[🔗 Repository](https://github.com/loveslaw/Discord-Server-Cloner) · [⭐ View Project](https://github.com/loveslaw/Discord-Server-Cloner)
+
+---
+
+### **🎫 Discord-Ticket-Engine** — Support Ticket Bot with 1:1 HTML Transcripts
+**Python** | **discord.py** | **Offline HTML Viewer**
+
+Modular support ticket system with persistent UI buttons, department routing, and 1:1 offline Discord Dark Theme single-file HTML transcript export.
+
+[🔗 Repository](https://github.com/loveslaw/Discord-Ticket-Engine) · [⭐ View Project](https://github.com/loveslaw/Discord-Ticket-Engine)
+
+---
+
+### **🖧 LAN-Sentry** — High-Speed Subnet Sniffer & Intruder Alert Daemon
+**Python** | **Socket & ARP** | **Discord Webhooks**
+
+Subnet sniffer auditing 254 hosts in 1–2 seconds, resolving hardware OUI manufacturers, and dispatching real-time Discord webhook alerts on unknown network intrusions.
+
+[🔗 Repository](https://github.com/loveslaw/LAN-Sentry) · [⭐ View Project](https://github.com/loveslaw/LAN-Sentry)
+
+---
+
+### **⚡ FastHLS-Downloader** — Multi-Threaded HLS Stream Grabber & Stitcher
+**Python** | **Parallel Worker Pools** | **AES-128 Decryptor**
+
+High-speed HLS (.m3u8) stream grabber pulling TS segments in 16x parallel threads, decrypting AES-128 chunks on the fly, and losslessly assembling them into clean video containers.
+
+[🔗 Repository](https://github.com/loveslaw/FastHLS-Downloader) · [⭐ View Project](https://github.com/loveslaw/FastHLS-Downloader)
 
 ---
 
@@ -82,9 +100,9 @@ Enterprise-grade server protection and moderation utility with automated threat 
 
 <div align="center">
 
-![Cherry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loveslaw&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000)
+![Cherry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loveslaw&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000&v=2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loveslaw&layout=compact&theme=radical&bg_color=0d1117&title_color=ff0000&text_color=ffffff&border_color=ff0000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loveslaw&layout=compact&theme=radical&bg_color=0d1117&title_color=ff0000&text_color=ffffff&border_color=ff0000&hide=html,css&v=2)
 
 </div>
 
@@ -94,7 +112,7 @@ Enterprise-grade server protection and moderation utility with automated threat 
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=loveslaw&theme=radical&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000)
+![GitHub Streak](https://streak-stats.demolab.com?user=loveslaw&theme=radical&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&v=2)
 
 </div>
 
@@ -115,11 +133,11 @@ Enterprise-grade server protection and moderation utility with automated threat 
 
 ## 💡 What I'm Building
 
-- 🎨 Interactive web experiences with React
-- 🤖 Advanced Discord bots with automation
-- ⚡ Custom automation scripts & tools
-- 🎵 Audio processing & streaming solutions
-- 🛡️ Community protection & moderation systems
+- 🛡️ Zero-knowledge encryption & forensic-resistant security tools
+- 🤖 High-availability asynchronous Discord bot frameworks
+- 🖧 Network diagnostics, subnet sniffers & hardware monitors
+- ⚡ Multi-threaded media ingest pipelines & video downloaders
+- 🎨 Aesthetic developer terminal interfaces (TUI) powered by Rich
 
 ---
 
