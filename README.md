@@ -1,4 +1,4 @@
-![CHERRY Banner](https://ibb.co/Kp7yjjKN)
+![CHERRY Banner](banner.png)
 
 <div align="center">
 
