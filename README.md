@@ -2,151 +2,112 @@
 
 <div align="center">
 
-# 👋 Hi there, I'm **Cherry**
+<!-- Animated Header Text -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&multiline=false&width=700&lines=CHERRY+%E2%80%A2+SYSTEMS+%26+SECURITY;EXPLOITING+ZERO-DAYS+%26+HARDENING+KERNELS;ASYNC+PYTHON+%E2%80%A2+FORENSIC-RESISTANT+ARCH;ALWAYS+BUILDING.+ALWAYS+PUSHING+LIMITS." alt="Typing SVG" />
+</a>
 
-## Systems, Security & Automation Engineer | Bot Architect
+<br/>
 
-### **Always Building. Always Pushing Limits.**
-
-</div>
-
----
-
-## 🎯 About Me
-
-Independent developer with a focus on **high-performance systems**, **asynchronous Python automation**, **network security tools**, and **production-grade community bots**. Driven by clean architecture, zero-dependency engineering, and robust CLI/TUI experiences.
-
-**Currently mastering:**
-- Advanced asynchronous Python architectures & low-level socket programming
-- Applied cryptography (AES-256-GCM, PBKDF2/Argon2, Zero-Knowledge Vaults)
-- Real-time IPC protocols and media streaming pipelines
-
-**My Goal:** Build scalable, forensic-resistant tools and automated developer utilities that solve real-world problems.
-
----
-
-## 💻 Tech Stack
-
-### **Languages**
-```
-Python  •  JavaScript  •  Node.js  •  Shell
-```
-
-### **Systems & Networking**
-```
-Raw Sockets  •  Asyncio  •  ARP/ICMP Sniffing  •  HLS/MPEG-TS Protocols  •  Discord IPC
-```
-
-### **Security & Cryptography**
-```
-AES-256-GCM  •  DoD 5220.22-M Shredding  •  PBKDF2-HMAC  •  Zero-Knowledge Architecture
-```
-
-### **Tools & Frameworks**
-```
-Git  •  GitHub  •  Linux / Windows IPC  •  Rich TUI  •  Pytest  •  Discord.py
-```
-
----
-
-## 🍒 Featured Projects
-
-### **🛡️ GhostVault-CLI** — Military-Grade File Locker & DoD 5220.22-M Shredder
-**Python** | **AES-256-GCM** | **Plausible Deniability**
-
-Zero-knowledge file and directory encryption vault with dual-slot plausible deniability (decoy vaults) and military DoD 5220.22-M 3-pass cryptographic shredder.
-
-[🔗 Repository](https://github.com/loveslaw/GhostVault-CLI) · [⭐ View Project](https://github.com/loveslaw/GhostVault-CLI)
-
----
-
-### **🔄 Discord-Server-Cloner** — Asynchronous Server Backup & 1-Click Cloner
-**Python** | **discord.py** | **Rate-Limit Throttled**
-
-Full lossless Discord server backup engine snapshotting roles, hierarchy, category structures, channel permissions, and emojis with 1-click template restoration.
-
-[🔗 Repository](https://github.com/loveslaw/Discord-Server-Cloner) · [⭐ View Project](https://github.com/loveslaw/Discord-Server-Cloner)
-
----
-
-### **🎫 Discord-Ticket-Engine** — Support Ticket Bot with 1:1 HTML Transcripts
-**Python** | **discord.py** | **Offline HTML Viewer**
-
-Modular support ticket system with persistent UI buttons, department routing, and 1:1 offline Discord Dark Theme single-file HTML transcript export.
-
-[🔗 Repository](https://github.com/loveslaw/Discord-Ticket-Engine) · [⭐ View Project](https://github.com/loveslaw/Discord-Ticket-Engine)
-
----
-
-### **🖧 LAN-Sentry** — High-Speed Subnet Sniffer & Intruder Alert Daemon
-**Python** | **Socket & ARP** | **Discord Webhooks**
-
-Subnet sniffer auditing 254 hosts in 1–2 seconds, resolving hardware OUI manufacturers, and dispatching real-time Discord webhook alerts on unknown network intrusions.
-
-[🔗 Repository](https://github.com/loveslaw/LAN-Sentry) · [⭐ View Project](https://github.com/loveslaw/LAN-Sentry)
-
----
-
-### **⚡ FastHLS-Downloader** — Multi-Threaded HLS Stream Grabber & Stitcher
-**Python** | **Parallel Worker Pools** | **AES-128 Decryptor**
-
-High-speed HLS (.m3u8) stream grabber pulling TS segments in 16x parallel threads, decrypting AES-128 chunks on the fly, and losslessly assembling them into clean video containers.
-
-[🔗 Repository](https://github.com/loveslaw/FastHLS-Downloader) · [⭐ View Project](https://github.com/loveslaw/FastHLS-Downloader)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Cherry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loveslaw&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000&v=2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loveslaw&layout=compact&theme=radical&bg_color=0d1117&title_color=ff0000&text_color=ffffff&border_color=ff0000&hide=html,css&v=2)
+<!-- Status Clearance Badges -->
+[![Clearance](https://img.shields.io/badge/CLEARANCE-TOP--SECRET-ff0055?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/loveslaw)
+[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=for-the-badge&logo=statuspage&logoColor=ff0055)](https://github.com/loveslaw)
+[![Architecture](https://img.shields.io/badge/ARCH-ZERO--KNOWLEDGE-ff0055?style=for-the-badge&logo=target&logoColor=white)](https://github.com/loveslaw)
 
 </div>
 
 ---
 
-## 🔥 Contribution & Activity
+## ⚡ **About Cherry**
+
+Independent Systems & Security Architect specializing in **high-performance asynchronous automation**, **low-level socket programming**, and **forensic-resistant tooling**. Passionate about cryptographic safety, zero-dependency engineering, and robust CLI/TUI ecosystems.
+
+* **Primary Focus:** Low-level Linux/Windows IPC, Raw Sockets, Applied Cryptography (AES-256-GCM, Argon2).
+* **Engineering Philosophy:** Zero bloat, maximum execution speed, impenetrable architecture.
+
+---
+
+### 🏆 **GitHub Global Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=loveslaw&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" alt="Cherry Trophies" />
+</div>
+
+---
+
+## 💻 **Technical Arsenal**
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=loveslaw&theme=radical&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&v=2)
+#### **Core Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### **Systems, Security & Networking**
+![AES-256](https://img.shields.io/badge/AES--256--GCM-FF0055?style=for-the-badge&logo=lock&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Zero--Knowledge-000000?style=for-the-badge&logo=gnupg&logoColor=white)
+![Sockets](https://img.shields.io/badge/Raw%20Sockets-2496ED?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 🍒 **Flagship Operations & Projects**
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loveslaw)
-[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:louiss010101@proton.me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=netlify&logoColor=white)](https://cherrygfx.netlify.app)
-[![Live Site](https://img.shields.io/badge/ForecY-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://forcecy.netlify.app)
+| Project | Stack | Overview | Access |
+| :--- | :--- | :--- | :---: |
+| **🛡️ GhostVault-CLI** | `Python` `AES-256-GCM` `Argon2` | Zero-knowledge cryptographic locker with decoy plausibility & DoD 5220.22-M 3-pass shredder | [**Inspect**](https://github.com/loveslaw/GhostVault-CLI) |
+| **🔄 Discord-Server-Cloner** | `Python` `discord.py` `Asyncio` | Full lossless Discord backup engine snapshotting roles, hierarchies, permissions & 1-click clone | [**Inspect**](https://github.com/loveslaw/Discord-Server-Cloner) |
+| **🖧 LAN-Sentry** | `Python` `Raw Sockets` `ARP` | High-speed subnet sniffer auditing 254 hosts in <2s with real-time intrusion webhook alerts | [**Inspect**](https://github.com/loveslaw/LAN-Sentry) |
+| **🎫 Discord-Ticket-Engine** | `Python` `Asyncio` `HTML5` | Support ticket engine with persistent components & 1:1 dark theme offline HTML transcript generation | [**Inspect**](https://github.com/loveslaw/Discord-Ticket-Engine) |
+| **⚡ FastHLS-Downloader** | `Python` `Multi-Threaded` `AES-128` | Multi-threaded HLS grabber downloading TS segments in 16x parallel threads with live decryption | [**Inspect**](https://github.com/loveslaw/FastHLS-Downloader) |
 
 </div>
 
 ---
 
-## 💡 What I'm Building
+## 📊 **Telemetry & Live Activity**
 
-- 🛡️ Zero-knowledge encryption & forensic-resistant security tools
-- 🤖 High-availability asynchronous Discord bot frameworks
-- 🖧 Network diagnostics, subnet sniffers & hardware monitors
-- ⚡ Multi-threaded media ingest pipelines & video downloaders
-- 🎨 Aesthetic developer terminal interfaces (TUI) powered by Rich
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=loveslaw&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0d1117&title_color=ff0055&icon_color=ff0055&text_color=ffffff&border_color=ff0055&v=3" height="175" alt="Cherry GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=loveslaw&theme=radical&background=0d1117&stroke=ff0055&ring=ff0055&fire=ff0055&currStreakLabel=ff0055&v=3" height="175" alt="Cherry Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveslaw&layout=compact&theme=radical&bg_color=0d1117&title_color=ff0055&text_color=ffffff&border_color=ff0055&hide=html,css&v=3" height="165" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🔗 **Encrypted Uplinks**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-loveslaw-FF0055?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loveslaw)
+[![Portfolio](https://img.shields.io/badge/Cherry%20GFX-Online-000000?style=for-the-badge&logo=netlify&logoColor=FF0055)](https://cherrygfx.netlify.app)
+[![Forcecy](https://img.shields.io/badge/Forcecy-Live-000000?style=for-the-badge&logo=vercel&logoColor=FF0055)](https://forcecy.netlify.app)
+[![Encrypted Mail](https://img.shields.io/badge/ProtonMail-Encrypted-FF0055?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:louiss010101@proton.me)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Show some ❤️ by starring repositories!
+```
+>>> ARCHITECTURE: ACTIVE | ZERO COMPROMISE | CHERRY ECOSYSTEM <<<
+```
 
-Made with 🖤 by [Cherry](https://github.com/loveslaw)
-
-**Always learning. Always building. Always pushing limits.**
+**Always Learning. Always Building. Always Pushing Limits.**
 
 </div>
